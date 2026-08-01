@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+fdtsp_sa/Soluciones/*
+!fdtsp_sa/Soluciones/.gitkeep
+fdtsp_ga/Soluciones/*
+!fdtsp_ga/Soluciones/.gitkeep
+
+route_plots/
+
+*.log
